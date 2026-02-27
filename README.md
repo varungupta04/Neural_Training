@@ -1,8 +1,9 @@
-# DeepLearning-Training-Workbench
+## DeepLearning-Training-Workbench
 
 This repository contains hands-on implementations and experiments completed as part of my Deep Learning lab course. It focuses on building, training, and evaluating neural network models using Python and deep learning frameworks.
+
 ---
-## 🧠 Overview
+## Overview
 
 The code and notebooks in this repository illustrate core concepts in neural network training, including:
 
@@ -14,7 +15,7 @@ The code and notebooks in this repository illustrate core concepts in neural net
 These exercises helped strengthen my understanding of deep learning fundamentals and modern model training practices.
 ---
 
-## 🛠️ Contents
+## Contents
 
 The repository includes:
 - Jupyter Notebooks demonstrating neural network training
@@ -23,7 +24,7 @@ The repository includes:
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 To run the notebooks locally:
 
